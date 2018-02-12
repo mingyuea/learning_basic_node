@@ -1,0 +1,1 @@
+for(i=0;i<3;i++){console.log(process.argv[i+2]);}
